@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+  }
+  h3 {
+    color: blue;
+}
+ul {
+    color: red;
+}
+p7 {
+    color:darkcyan;
+}
+p9 {
+    color:darkcyan;
+}
+p7{
+    font-family: 'Courier New', Courier, monospace;
+}
+p9{
+        font-family: 'Courier New', Courier, monospace;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  .img-container {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  div.c {
+    text-align: right;
+  } 
