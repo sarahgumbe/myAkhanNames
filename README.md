@@ -8,15 +8,15 @@ Akan names are not just names given to children to give them identity. There is 
 Like many cultures in the world, Ghanaians view naming of a child as a very important rite of passage. They normally pick a meaningful name since they believe the name accompanies the individual for the rest of their life. Their convention for naming is very unique compared to other cultures in the world. 
  
 ## Setup/Installation Requirements
+This was a good readme because it pointed out details such as how to compile/call the program, and clear introductions of known materials that makes it easy to understand.It also used different programming languages that make the project user friendly. The project also works as intended.
 * This is a great place
 * to list setup instructions
 * in a simple
 * easy-to-understand
 * format
 {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
-## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. 
 
+Currently there are no bugs nor issues to be resolved on this project and should there be any,this will be included later.
 Some of the languages and tools I used to create this project are Javascript,HTML,CSS and bootstrap.
 
 Incase of any questions or further inputs,I am reachable on
@@ -27,4 +27,5 @@ https://github.com/sarahgumbe
 
 The MIT License (MIT)
 Copyright (c) 2022 .Sarah Gumbe,gumbe12@gmail.com
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
 
