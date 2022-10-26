@@ -16,6 +16,7 @@ Currently there are no bugs nor issues to be resolved on this project and should
 Some of the languages and tools I used to create this project are Javascript,HTML,CSS and bootstrap.
 
 Incase of any questions or further inputs,I am reachable on
+
 Mobile: +254 712 504 303
 Kisumu, Kenya
 Email: gumbe12@gmail.com
