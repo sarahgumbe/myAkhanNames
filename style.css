@@ -2,7 +2,7 @@ body {
     background-color: bisque;
   }
   h3 {
-    color: blueviolet;
+    color: blue;
 }
 ul {
     color: red;
@@ -33,4 +33,7 @@ p9{
   } 
   p {
     color: black;
+  }
+  p {
+    font-family: 'Times New Roman', Times, serif;
   }
