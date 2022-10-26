@@ -1,7 +1,8 @@
 AKAN NAMES AND THEIR MEANINGS
 
-The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name. ,Monday,October,24 2022
-By.Sarah Gumbe
+The Akan people of Ghana frequently name their children after the day of the week they were born and the order in which they were born. These "day names" have further meanings concerning the soul and character of the person. Middle names have considerably more variety and can refer to their birth order, twin status, or an ancestor's middle name. 
+
+Monday,October,24 2022 .Sarah Gumbe
 
 Akan names come from a traditional naming system for people from countries such as Togo, Ivory Coast and Ghana. A child’s name is determined by factors surrounding his or her birth. For example, the day of their birth or the manner in which they were born may determine which name they get irrespective of their gender. These Akan names signify the day one is born. According to Akan tradition, each child is born with a name associated to their soul. The day the child is born is therefore determined by the soul. The well thought and organized naming system of the Akan’s was initiated by the ancestors and has attracted so many people’s attention as they desire to know more about these names. 
 
