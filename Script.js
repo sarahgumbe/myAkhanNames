@@ -21,7 +21,6 @@ function akanNames() {
     
     if (
     
-    
         exactdate >= 0 &&
     
         exactdate <= 7 &&
@@ -64,4 +63,4 @@ function akanNames() {
     else {
         alert("WRONG DATE FORMAT. PLEASE USE YYYY-MM-DD\nExample: 2022-10-08");
     }
-    }
+}
