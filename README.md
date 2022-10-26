@@ -7,14 +7,7 @@ Akan names come from a traditional naming system for people from countries such 
 Akan names are not just names given to children to give them identity. There is a specific traditional system that is followed when the naming is being done. The names also have different meanings and appellations.
 Like many cultures in the world, Ghanaians view naming of a child as a very important rite of passage. They normally pick a meaningful name since they believe the name accompanies the individual for the rest of their life. Their convention for naming is very unique compared to other cultures in the world. 
  
-## Setup/Installation Requirements
 This was a good readme because it pointed out details such as how to compile/call the program, and clear introductions of known materials that makes it easy to understand.It also used different programming languages that make the project user friendly. The project also works as intended.
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 
 Currently there are no bugs nor issues to be resolved on this project and should there be any,this will be included later.
 Some of the languages and tools I used to create this project are Javascript,HTML,CSS and bootstrap.
